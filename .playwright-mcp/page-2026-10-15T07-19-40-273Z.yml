@@ -1,0 +1,10 @@
+- generic [ref=e466]:
+  - banner [ref=e467]:
+    - generic [ref=e468]:
+      - generic [ref=e469]: GREENKART
+      - link "🎯 I’ll help you prepare for your next QA job — Explore the QA Career Accelerator." [ref=e470] [cursor=pointer]:
+        - /url: https://rahulshettyacademy.com/qa-career-accelerator-job-ready
+  - generic [ref=e473]:
+    - text: Here the terms and condition page Click to geo back
+    - link "Home" [ref=e474] [cursor=pointer]:
+      - /url: "#/"
